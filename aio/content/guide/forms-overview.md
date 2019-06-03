@@ -121,7 +121,7 @@ Here's a component with an input field for a single control implemented using re
 
 The source of truth provides the value and status of the form element at a given point in time. In reactive forms, the form model is the source of truth. In the example above, the form model is the `FormControl` instance.
 
-权威数据源负责提供在指定时间点上表单元素的值和状态。在响应式表单中，表单模式充当权威数据源。上例中的表单模型就是 `FormControl` 的实例。
+权威数据源负责提供在指定时间点上表单元素的值和状态。在响应式表单中，表单模型充当权威数据源。上例中的表单模型就是 `FormControl` 的实例。
 
 <figure>
   <img src="generated/images/guide/forms-overview/key-diff-reactive-forms.png" alt="Reactive forms key differences">
